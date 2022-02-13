@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T23:17:12.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="uYDCnRIg8XWyp5YbDDmg" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T23:19:00.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="9Q2hIXHtjUTwMO2hrK68" version="16.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,8 +30,14 @@
         <mxCell id="rFqJQ763wm51LdH-EZaU-3" value="tiempo=input" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="380" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rFqJQ763wm51LdH-EZaU-6" value="Velocidad=" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rFqJQ763wm51LdH-EZaU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rFqJQ763wm51LdH-EZaU-6" target="rFqJQ763wm51LdH-EZaU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFqJQ763wm51LdH-EZaU-6" value="Velocidad=distancia/&lt;br&gt;(tiempo/60)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="162.5" y="490" width="137.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rFqJQ763wm51LdH-EZaU-7" value="&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgba(255 , 255 , 255 , 0.85)&quot;&gt;&quot;Se ha desplazado a una velocidad de&quot; + &amp;amp;velocidad + &quot;km/h.&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="146.25" y="630" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
